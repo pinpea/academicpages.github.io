@@ -1,15 +1,16 @@
 ---
 layout: archive
-title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
----
 
-{% include base_path %}
-
-
+<!--{% include base_path %}
 {% for post in site.portfolio %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
 
+youtubeId: sFooncMJhng
+title: "Video of my Robot for the Royal Academy Event "
 
+---
+
+{% include youtubePlayer.html id=page.youtubeId %}
