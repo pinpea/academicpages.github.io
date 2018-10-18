@@ -22,12 +22,8 @@ PhD - Robots for bridge bearing inspection     September 2015 - present
 
 University of Bristol                                       UK
 MEng (Hons) Aeronautical Engineering (1st class)     2011-2015
-    -   Final year project: Efficient implementation of computational
-        fluid dynamics for modelling vortices around aircraft wing tips.
-
-    -   Relevant modules: Satellite mechanics and space, robot dynamics,
-        aerodynamics, UAV system design, energy generation for 21st
-        century.
+- Final year project: Efficient implementation of computational fluid dynamics for modelling vortices around aircraft wing tips.
+-   Relevant modules: Satellite mechanics and space, robot dynamics, aerodynamics, UAV system design, energy generation for 21st century.
 
 
 PhD
