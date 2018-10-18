@@ -21,7 +21,7 @@ PhD - Robots for bridge bearing inspection     *September 2015 - present*
 - Funded by ESPRC and the University of Leeds.
 
 University of Bristol                                       UK
-MEng (Hons) Aeronautical Engineering (1st class)*     *2011-2015*
+MEng (Hons) Aeronautical Engineering (1st class)     *2011-2015*
     -   Final year project: Efficient implementation of computational
         fluid dynamics for modelling vortices around aircraft wing tips.
 
@@ -74,14 +74,17 @@ addressing the inspection, repair and maintenance of critical
 infrastructure and our solution to automation of vehicles in
 construction sites. Our solution used a computer vision system on-board
 a drone to monitor, track and direct small-scale construction vehicles
-and was featured on the BBC documentary 'Invented in the North'.\
+and was featured on the BBC documentary 'Invented in the North'.
+
 **ESPRC National Intelligent Robotics Prototyping Workshop, 2016**: As
 part of a team at this workshop I built a robot for detecting and
 carrying objects to a user. During this workshop, I was featured in a
-video that was published by the University of Leeds.\
+video that was published by the University of Leeds.
+
 **Summer School, 2016**: I attended the British Machine Vision
 Association (BVMA) summer school in 2016 on computer vision, machine
-learning, AI and its applications.\
+learning, AI and its applications.
+
 **Communications Training** I was selected to attend a scientific
 communications masterclass led by Dr Maggie Aderin-Pollock.
 
