@@ -28,6 +28,8 @@ MEng (Hons) Aeronautical Engineering (1st class)     2011-2015
     -   Relevant modules: Satellite mechanics and space, robot dynamics,
         aerodynamics, UAV system design, energy generation for 21st
         century.
+
+
 PhD
 ========
 My PhD focuses on the development and operation of autonomous robots for
