@@ -15,13 +15,13 @@ Education
 ====
 
 University of Leeds                                              UK
-PhD - Robots for bridge bearing inspection     *September 2015 - present*
+PhD - Robots for bridge bearing inspection     September 2015 - present
 - Supervisors: Professor Anthony G. Cohn, Dr Raul Fuentes.
 - Part of the self-reparing cities project (http://selfrepairingcities.com/)
 - Funded by ESPRC and the University of Leeds.
 
 University of Bristol                                       UK
-MEng (Hons) Aeronautical Engineering (1st class)     *2011-2015*
+MEng (Hons) Aeronautical Engineering (1st class)     2011-2015
     -   Final year project: Efficient implementation of computational
         fluid dynamics for modelling vortices around aircraft wing tips.
 
