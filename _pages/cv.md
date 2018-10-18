@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "My CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-**Harriet Peel**
+Name: **Harriet Peel**
 
-H.Peel@leeds.ac.uk
+Email: H.Peel@leeds.ac.uk
 
 Education 
 ====
