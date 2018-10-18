@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-**Harriet Peel**\
-H.Peel\@leeds.ac.uk
+**Harriet Peel**
+
+H.Peel@leeds.ac.uk
 
 Education 
 ====
