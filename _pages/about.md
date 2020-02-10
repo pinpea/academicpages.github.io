@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Final Year PhD student at the University of Leeds.
+I am a Postdoctoral Researcher in the Robotics for Extreme Environments Group at the Universtity of Manchester [REEG at Manchester](http://uomrobotics.com/index.html). In my current role, I am designing, building, developing and commercialising a robotic ground platform to perform automated surveying of legacy nuclear facilities. I have also contributed to the build and development of a reconfigurable robot for access into potentially contaminated facilities through a 5inch access port. For more details about both of these project see [see videos page](https://pinpea.github.io/harrietpeel/portfolio/). [CARMA](http://uomrobotics.com/nuclear/roboticplatforms/autonomous%20exploration/carma.html) and [MiRRAX](http://uomrobotics.com/nuclear/roboticplatforms/autonomous%20exploration/mirrax150.html)
 
-Inspection of civil infrastructure can be very challenging; it can often be hard to access.
-In my research I have been using robotics and AI to perform inspection of bridge bearings. For more information see [see videos page](https://pinpea.github.io/harrietpeel/portfolio/) and [my publications](https://pinpea.github.io/harrietpeel/publications/).  
+In my PhD I used robotics and AI to perform inspection of bridge bearings and other civil infrastructure. For more information see [see videos page](https://pinpea.github.io/harrietpeel/portfolio/) and [my publications](https://pinpea.github.io/harrietpeel/publications/).  
 
 I have also been involved in the [self-repairing cities project](http://selfrepairingcities.com/) at the Univeristy of Leeds. As part of this project I have been using AI to detect cracks in concrete, which contributes to the use of drones for inspection and repair of roads [see videos page](https://pinpea.github.io/harrietpeel/portfolio/).
 
