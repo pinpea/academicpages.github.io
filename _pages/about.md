@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in the Robotics for Extreme Environments Group at the Universtity of Manchester [REEG at Manchester](http://uomrobotics.com/index.html). In my current role, I am designing, building, developing and commercialising a robotic ground platform to perform automated surveying of legacy nuclear facilities. I have also contributed to the build and development of a reconfigurable robot for access into potentially contaminated facilities through a 5inch access port. For more details about both of these project see [see videos page](https://pinpea.github.io/harrietpeel/portfolio/). [CARMA](http://uomrobotics.com/nuclear/roboticplatforms/autonomous%20exploration/carma.html) and [MiRRAX](http://uomrobotics.com/nuclear/roboticplatforms/autonomous%20exploration/mirrax150.html). 
+I am a Postdoctoral Researcher in the Robotics for Extreme Environments Group at the Universtity of Manchester [REEG at Manchester](http://uomrobotics.com/index.html). In my current role, I am designing, building, developing and commercialising a robotic ground platform to perform automated surveying of legacy nuclear facilities. I have also contributed to the build and development of a reconfigurable robot for access into potentially contaminated facilities through a 5inch access port. For more details about both of these project see [videos page](https://pinpea.github.io/harrietpeel/portfolio/). [CARMA](http://uomrobotics.com/nuclear/roboticplatforms/autonomous%20exploration/carma.html) and [MiRRAX](http://uomrobotics.com/nuclear/roboticplatforms/autonomous%20exploration/mirrax150.html). 
 These projects are supported by the UK Robotics and AI in Nuclear Hub [RAIN](https://rainhub.org.uk/research/overview/). 
 
 
