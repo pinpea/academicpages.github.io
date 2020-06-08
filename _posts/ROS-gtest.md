@@ -8,8 +8,6 @@ tags:
   - TDD
 ---
 
-# ROS G-Test Example
-
 ## Setup
 
 I am using [catkin tools](https://catkin-tools.readthedocs.io/en/latest/index.html) to build this project. See their [cheat sheet](https://catkin-tools.readthedocs.io/en/latest/cheat_sheet.html) for setting up a project and using catkin build etc.

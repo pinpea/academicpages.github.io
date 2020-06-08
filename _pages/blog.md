@@ -3,6 +3,7 @@ layout: archive
 title: "Current Work"
 permalink: /blog/
 author_profile: true
+
 ---
 
 # Current Work
