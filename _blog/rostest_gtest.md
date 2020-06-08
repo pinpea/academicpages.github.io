@@ -6,7 +6,7 @@ permalink: /blog/gtest-and-ros
 excerpt: " "
 
 venue: ""
-date: 2020
+date: 2015-08-14
 location: ""
 ---
 
