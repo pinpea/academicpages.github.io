@@ -165,7 +165,7 @@ kramdown:
 
 # Collections
 collections:
-  blog:
+  posts:
     output: true
     permalink: /:collection/:path/
   publications:
