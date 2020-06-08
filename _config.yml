@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -85,8 +85,8 @@ author:
   bio              : "Researcher - Robotics for Nuclear Environments"
   location         : "University of Manchester"
   employer         :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=ZTXJ_FEAAAAJ&hl=en"
-  email            : "harriet.peel@manchester.ac.uk"
+  googlescholar    : 
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Harriet_Pea"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
