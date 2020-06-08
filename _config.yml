@@ -13,7 +13,7 @@ name                     : &name "Harriet Peel"
 description              : &description "personal description"
 url                      : "https://pinpea.github.io/harrietpeel" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"https://github.com/pinpea/harrietpeel
-repository               : "https://github.com/pinpea/harrietpeel"
+repository               : "/pinpea/harrietpeel"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -100,7 +100,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/harriet-peel-0b3b5283/"
-  orcid            : "https://orcid.org/0000-0002-9432-3438"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
