@@ -13,10 +13,10 @@ https://github.com/pinpea/waypoint_planner
 
 ## Basic Usage
 
-<pre>
+<code class=".page__code" >
 # clone into your catkin_ws and build
 roslaunch waypoint_planner waypoint_planner.launch
-</pre>
+</code>
 
 <pre>
 .post-title {
