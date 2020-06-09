@@ -11,7 +11,9 @@ redirect_from:
 <iframe class=".page__iframe" src="HarrietPeel_CV.html" seamless></iframe>
 </div> -->
 
-![cv](_pages/HarrietCV.jpg)
+<img src="https://pinpea.github.io/harrietpeel/images/HarrietCV.jpg" alt="cv"/>
+
+<!-- ![cv](_pages/HarrietCV.jpg) -->
 
 <!-- <div id="includedContent"></div> -->
 <!--
