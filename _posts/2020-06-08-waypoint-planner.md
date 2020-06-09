@@ -13,10 +13,20 @@ https://github.com/pinpea/waypoint_planner
 
 ## Basic Usage
 
-```bash
+<pre>
 # clone into your catkin_ws and build
 roslaunch waypoint_planner waypoint_planner.launch
-```
+</pre>
+
+<pre>
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+</pre>
 
 The launch file gives options to launch rviz and rqt gui.
 when launching the rqt gui, choose options in 'Plugins/Configuration/Dynamic Reconfigure' to edit dynamic parameters.
@@ -44,8 +54,9 @@ rosservice call /waypoint_planner/follow_waypoints "data: true"
 ```
 
 ## Topics
-- /waypoint_planner/centroid_position  
-- /waypoint_planner/feedback  
+
+- /waypoint_planner/centroid_position
+- /waypoint_planner/feedback
 - /waypoint_planner/follow_waypoints
 - /waypoint_planner/inner_loops
 - /waypoint_planner/outer_loop
