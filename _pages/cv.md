@@ -11,7 +11,7 @@ redirect_from:
 <iframe class=".page__iframe" src="HarrietPeel_CV.html" seamless></iframe>
 </div> -->
 
-![cv](HarrietCV.jpg)
+![cv](_pages/HarrietCV.jpg)
 
 <!-- <div id="includedContent"></div> -->
 <!--
