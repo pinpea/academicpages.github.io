@@ -18,16 +18,6 @@ https://github.com/pinpea/waypoint_planner
 roslaunch waypoint_planner waypoint_planner.launch
 </code>
 
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
 The launch file gives options to launch rviz and rqt gui.
 when launching the rqt gui, choose options in 'Plugins/Configuration/Dynamic Reconfigure' to edit dynamic parameters.
 
