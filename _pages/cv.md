@@ -7,7 +7,12 @@ redirect_from:
   - /resume
 ---
 
+<!-- <div>
 <iframe class=".page__iframe" src="HarrietPeel_CV.html" seamless></iframe>
+</div> -->
+
+![cv](./HarrietPeel_CV.pdf)
+
 <!-- <div id="includedContent"></div> -->
 <!--
 Name: **Harriet Peel**
