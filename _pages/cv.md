@@ -5,13 +5,15 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+image_path: "images/HarrietCV.jpg"
 ---
 
 <!-- <div>
 <iframe class=".page__iframe" src="HarrietPeel_CV.html" seamless></iframe>
 </div> -->
 
-<img src="https://pinpea.github.io/harrietpeel/images/HarrietCV.jpg" alt="cv"/>
+<img src="{{ img_path }}" alt="{{ page.title }}" class="page__hero-image">
+<img src="./HarrietCV.jpg" alt="cv" class="page__hero-image">
 
 <!-- ![cv](_pages/HarrietCV.jpg) -->
 
