@@ -15,7 +15,7 @@ This ROS node uses Interactive Markers and a Dynamic Reconfigure server to publi
 ## Basic Usage
 
 ```
-# clone into your catkin_ws and build
+# clone into your catkin_ws/src, build and source
 roslaunch waypoint_planner waypoint_planner.launch
 ```
 
